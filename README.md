@@ -57,3 +57,20 @@ From the chart <em>Top Earning Animated Movies</em> we can see a rather homogeno
 <li>What is the correlation between the costs of making animated movies and their earnings, and how does this compare to non-animated movies?</li>
 
 From our charts <em>Non-animated Movies, Budget vs Gross (in millions)</em> and <em>Animated Movies, Budget vs Gross (in millions)</em> We can see the relationships in budgets versus revenues for animated and non-animated movies. As well, from calculating the correlation of these two factors we can see that there is a slightly higher correlation between budget and revenue for non-animated films (0.80) than for animated films (0.71). While this data point means that you may make more, or less than a non-animated film for a given budget, by comparing it with the ratio of average budget to average revenue we can see that on average animated film make more (3.55 times budget) than non-animated films (3.05 times budget).
+
+</ol>
+
+## Part 4: Conclusion
+
+Our research and investigation shows that should a company want to enter the film industry, proceeding with animation as the medium is an intelligent choice. Not only is the production more viable given the current state of the world, but there is a lower barrier to entry, and there is more upside to success.
+
+#### Further Analysis:
+
+To continue this project we would suggest:
+
+<ul>
+<li>Augmenting the dataset with additional sources (utilizing the web scraper we’ve built, or other means TBD)</li>
+<li>
+Re-collecting data as more becomes available via our current API method.</li>
+<li>Automating collection and analysis methods to always have upto date information (i.e. automated API calls and no hardcoded dates)</li>
+</ul>
