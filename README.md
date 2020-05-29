@@ -4,7 +4,7 @@ Amin Nazerzadeh & Kevin Evans
 
 ## Introduction
 
-With many industries currently crippled by the coronavirus pandemic, embarking on a new endeavor can be a very risky decision. At the same time, though, it is also a time of great opportunity. While the production of live-action cinema is currently impossible, the world of animation has been gaining respect in recent times, and could be a lucrative business to venture into. To support this theory, we have collected, sorted, and analyzed information from the Movie Database in order to answer these questions:
+With many industries currently crippled by the coronavirus pandemic, embarking on a new endeavor can be a very risky decision. At the same time, though, it is also a time of great opportunity. While the production of live-action cinema is currently impossible, the world of animation has been gaining respect in recent times, and could be a lucrative business to venture into. To support this theory, we have collected, sorted, and analyzed data on the movie industry in order to answer these questions:
 
 <ol>
 <li>What is the trend of animated movies over previous 10 years?
@@ -28,9 +28,9 @@ To assist us in our research, we utilized the following libraries:
 
 ## Part 1: Data Collection
 
-For our data, we made use of the services provided by The Movie Database (TMDb). We used a large collection of movies from TMDb provided by the Flatiron School, and as well, in order to supplement that data for our specific interest (animated films) we connected to TMDb’s API, collecting titles and details for an addition 10,000 animated films.
+For our data, we made use of the services provided by The Movie Database (TMDb) as well as the Internet Movie Database (IMDb). We used a large collection of movies from TMDb and IMDb provided by the Flatiron School, and as well, in order to supplement that data for our specific interest (animated films) we connected to TMDb’s API, collecting titles and details for an addition 10,000 animated films.
 
-In an effort to further augment our data, we built a web scraper to find a movie’s budget on the Internet Movie Database (IMDb) allowing us to fill in potentially missing values. However, from comparing samples of scrapped data against the data collected from our API requests, we found that this method only had the potential to add 1% more data, and thus we decided to not implement the web scraper, saving it for potential future development.
+In an effort to further augment our data, we built a web scraper to find movies' budgets on IMDb's website, allowing us to fill in potentially missing values. However, from comparing samples of scrapped data against the data collected from our API requests, we found that this method only had the potential to add 1% more data, and thus we decided to not implement the web scraper, saving it for potential future development.
 
 ## Part 2: Data Cleaning
 
