@@ -48,7 +48,7 @@ As is clearly shown in our chart <em>Number of Animated movies produced over the
 <li>
 Who are the current competitors in this space?</li>
 
-From our chart <em>Animation Movies made by Different Companies Over the 10 Years Period</em> you can that Disney (labeled as “BV” for “Buena Vista” one of their subsidiaries) leads the market with over 30 animated releases in the last 10 years. While the top 5 companies are relatively prolific, the bottom 5 have put out on average less than one animated film per year, meaning that this is a feasible market to become a leader in.
+From our chart <em>Animation Movies made by Different Companies Over the 10 Years Period</em> you can see that Disney (labeled as “BV” for “Buena Vista” one of their subsidiaries) leads the market with over 30 animated releases in the last 10 years. While the top 5 companies are relatively prolific, the bottom 5 have put out on average less than one animated film per year, meaning that this is a feasible market to become a leader in.
 
 <li>What are the top-earning animated movies?</li>
 
