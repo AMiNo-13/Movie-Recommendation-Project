@@ -1,4 +1,4 @@
-# Module 1 Final Project
+# Movie Project
 
 Amin Nazerzadeh & Kevin Evans
 
